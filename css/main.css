@@ -3416,8 +3416,8 @@ html.no-csstransitions .home-content__main {
 
 .logo_completo{
     width: 60%;
-    height: auto;
-    margin-left: 30%;
-    margin-top: 5%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
