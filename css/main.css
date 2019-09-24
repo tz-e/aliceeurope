@@ -3038,6 +3038,7 @@ html.no-csstransitions .home-content__main {
  * ## contact social
  * ------------------------------------------------------------------- */
 .contact-social {
+     color: #494949;
   list-style: none;
   display: inline-block;
   margin: 0 0 0 0.3rem;
@@ -3058,6 +3059,7 @@ html.no-csstransitions .home-content__main {
 }
 .contact-social li:last-child {
   margin: 0;
+     color: #494949;
 }
 
 
@@ -3131,6 +3133,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .cl-copyright span {
+     color: #494949;
   font-size: 15px;
   display: inline-block;
 }
@@ -3336,23 +3339,25 @@ html.no-csstransitions .home-content__main {
     padding-bottom: 6rem;
   }
 
-  .contact-main {
+  .contact-main { color: #494949;
     margin-top: 12rem;
   }
 
-  .contact-email {
+  .contact-email { color: #494949;
     font-size: 3rem;
   }
 
-  .contact-number {
+  .contact-number { color: #494949;
     font-size: 1.8rem;
   }
 
   .contact-address {
+       color: #494949;
     font-size: 1.8rem;
   }
 
   .contact-social {
+       color: #494949;
     font-size: 2rem;
   }
 
@@ -3363,11 +3368,12 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 480px) {
   .contact-subscribe {
+       color: #494949;
     margin-top: 3rem;
   }
 
   .mc-form input[type="email"],
-  .mc-form label {
+  .mc-form label { color: #494949;
     text-align: center;
   }
   .mc-form input[type="email"] {
@@ -3384,47 +3390,47 @@ html.no-csstransitions .home-content__main {
   }
 }
 @media only screen and (max-width: 400px) {
-  .s-contact {
+  .s-contact { color: #494949;
     padding-top: 9.6rem;
     padding-bottom: 3rem;
   }
 
-  .contact-main {
+  .contact-main { color: #494949;
     margin-top: 9.6rem;
   }
 
-  .contact-secondary {
+  .contact-secondary { color: #494949;
     padding: 0;
   }
 
-  .contact-email {
+  .contact-email { color: #494949;
     font-size: 2.4rem;
   }
 
-  .contact-number {
+  .contact-number { color: #494949;
     font-size: 1.6rem;
   }
 
-  .cl-copyright {
+  .cl-copyright { color: #494949;
     margin-top: 9rem;
     padding: 0;
     text-align: center;
   }
 
-  .cl-copyright span {
+  .cl-copyright span { color: #494949;
     font-size: 14px;
   }
-  .cl-copyright span::after {
+  .cl-copyright span::after { color: #494949;
     display: none;
   }
 
-  .cl-go-top {
+  .cl-go-top { color: #494949;
     bottom: 12rem;
     right: 50%;
     margin-right: -24px;
   }
   .cl-go-top::before,
-  .cl-go-top::after {
+  .cl-go-top::after { color: #494949;
     display: none;
   }
 }
