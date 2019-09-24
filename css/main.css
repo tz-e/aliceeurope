@@ -3129,6 +3129,7 @@ html.no-csstransitions .home-content__main {
  * ## copyright
  * ------------------------------------------------------------------- */
 .cl-copyright {
+    color:#494949;
   margin-top: 2.1rem;
 }
 
@@ -3223,7 +3224,7 @@ html.no-csstransitions .home-content__main {
  * contact
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1600px) {
-  .cl-go-top {
+  .cl-go-top {color:#494949;
     right: 55px;
   }
 }
