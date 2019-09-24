@@ -2980,7 +2980,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 21rem;
   padding-bottom: 10.2rem;
-  background-color: #6e6868;
+  background-color: #524444; /*6e6868 - 524444 - 523c3c*/
   color: rgba(255, 255, 255, 0.3);
   position: relative;
 }
@@ -3419,5 +3419,6 @@ html.no-csstransitions .home-content__main {
     margin-left: auto;
     margin-right: auto;
     width: 60%;
-    margin-bottom: -20%;
+    margin-top: 15px;
+    margin-bottom: -15%;
 }
