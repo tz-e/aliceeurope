@@ -3277,7 +3277,9 @@ html.no-csstransitions .home-content__main {
     font-size: 2.4rem;
   }
 
-  .contact-address {      color:#494949;
+  .contact-address {      
+
+      color:#494949;
 
     font-size: 2.1rem;
   }
